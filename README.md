@@ -57,6 +57,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+<!--
 ## 📊 Profile Statistics
 
  <div align=center>
@@ -70,7 +72,7 @@
  
  <div align=center>
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aym-Miyamoto&theme=github_dark)
   
  </div>
  
@@ -78,19 +80,19 @@
  
  <div align=center>
   
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrahman-Alhamod&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aym-Miyamoto&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
 
  </div>
  
  ### 📈 Activity Graph
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aym-Miyamoto&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 📊 Most Used Language
 
  <div align=center>
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Aym-Miyamoto&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
  
@@ -98,7 +100,7 @@
 
 <div align=center>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdalrahman-Alhamod&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aym-Miyamoto&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -122,5 +124,5 @@
 ------
 
 Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
+-->
+Last Edited on: 26/06/2025
